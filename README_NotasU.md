@@ -18,6 +18,3 @@ Aplicación web para que estudiantes consulten sus **materias** y **notas por se
 
 ## Trazabilidad
 - Historias en Jira (prefijo TSK o NOTA )
-
-
-
