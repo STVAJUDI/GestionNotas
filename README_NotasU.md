@@ -20,3 +20,4 @@ Abrir `web/index.html` en el navegador (prototipo estático).
 
 ## Trazabilidad
 - Historias en Jira (prefijo TSK o NOTA 
+
