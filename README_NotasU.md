@@ -19,4 +19,4 @@ Aplicación web para que estudiantes consulten sus **materias** y **notas por se
 Abrir `web/index.html` en el navegador (prototipo estático).
 
 ## Trazabilidad
-- Historias en Jira (prefijo TSK o NOTA 
+- Historias en Jira (prefijo TSK o NOTA )
