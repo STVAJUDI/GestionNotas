@@ -15,9 +15,10 @@ Aplicación web para que estudiantes consulten sus **materias** y **notas por se
 - `feature/TSK-<id>-<slug>`: por historia de Jira
 - PRs vinculadas al issue correspondiente
 
-## Cómo ejecutar (mock)
-Abrir `web/index.html` en el navegador (prototipo estático).
 
+<<<<<<< HEAD
 ## Trazabilidad
 - Historias en Jira (prefijo TSK o NOTA 
+=======
+>>>>>>> f6836a46fd6f4e893ec7fcbb2b7da41f6caf29d9
 
