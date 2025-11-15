@@ -16,11 +16,8 @@ Aplicación web para que estudiantes consulten sus **materias** y **notas por se
 - PRs vinculadas al issue correspondiente
 
 
-<<<<<<< HEAD
 ## Trazabilidad
-- Historias en Jira (prefijo TSK o NOTA 
-=======
->>>>>>> f6836a46fd6f4e893ec7fcbb2b7da41f6caf29d9
+- Historias en Jira (prefijo TSK o NOTA )
 
 
 
