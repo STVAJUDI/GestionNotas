@@ -15,7 +15,5 @@ Aplicación web para que estudiantes consulten sus **materias** y **notas por se
 - `feature/TSK-<id>-<slug>`: por historia de Jira
 - PRs vinculadas al issue correspondiente
 
-## Cómo ejecutar (mock)
-Abrir `web/index.html` en el navegador (prototipo estático).
 
 
