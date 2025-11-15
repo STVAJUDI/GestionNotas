@@ -18,7 +18,4 @@ Aplicación web para que estudiantes consulten sus **materias** y **notas por se
 ## Cómo ejecutar (mock)
 Abrir `web/index.html` en el navegador (prototipo estático).
 
-## Trazabilidad
-- Historias en Jira (prefijo TSK o NOTA)
-- Branches nombradas `feature/<IDJira>-<slug>`
-- Commits estilo *Conventional Commits*, ej.: `feat(NOTA-3): ver detalle de notas`
+
